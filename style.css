@@ -217,15 +217,15 @@ span{
 @keyframes words{
     0%,
     20%{
-        content:"Web_Application_Penetration_Tester" ;
+        content:"Web_Penetester" ;
     }
     21%,
     40%{
-        content:"Network_Penetration_Tester" ;
+        content:"Network_Penetester" ;
     }
     41%,
     60%{
-        content:"mobile_application_Penetration_Tester" ;
+        content:"MobileApp_Penetester" ;
     }
     61%,
     80%{
